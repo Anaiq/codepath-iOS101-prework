@@ -1,21 +1,25 @@
 
-Codepath iOS101 2025 prework project - Change Background Color
+#Codepath iOS101 2025 Prework 
 
+Title: Change Background Color
 Prework - Qiana Partee
 Submitted by: Qiana Partee
 
-*Change My Background Color is an app that let's you change your screen's background color at the click of a button.
+##Description:
+Change My Background Color is an app that let's you change your screen's background color at the click of a button.
 
-Time spent: approx 5 hours spent in total
+Time spent: approx 8 hours spent in total
 
-Required Features
+##Required Features
 The following required functionality is completed:
-
- Users are see a screen with three labels and a button
- Tapping the button changes the screen color to a random color
+ -[]Users are see a screen with three labels and a button
+ -[]Tapping the button changes the screen color to a random color
+ 
 ##Improvements to the app are:
-Added a second button to change the color of the text
-Video Walkthrough
+-[]Added a second button to change the color of the text
+
+
+##Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/a3d6b2660b834c2d8a2b34d39e16a97e">
     </a>
@@ -24,11 +28,17 @@ Video Walkthrough
     </a>
   </div>
 
-App Brainstorming:
+
+##App Brainstorming:
 Instagram - clicking heart to like a post, heart changes color
 Google calendar - create a task, see it appear on the calendar
 Target - search for a product, see it's location in the store
-App Idea - Penny press logic problem app. Given a set of clues, determine the correct answers. The answer board is a grid where you mark each cell Y or N. Can click on a button to check how many correct and incorrect answers you have. You can also get a hint to see if you are in the right direction.
+**App Idea** - Penny Press Logic Puzzle App
+Solve logic puzzles by determining the right combination based on a series of clues. The puzzle is a grid, where you mark each cell with a "Yes" (Y) or "No" (N).
+
+    Check Your Progress: Click to see how many answers you've gotten right or wrong.
+    Get Hints: If you're stuck, use a hint to see if you're on the right track.
+
 
 License
 Copyright [2024] [Qiana Partee]
