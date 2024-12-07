@@ -1,8 +1,8 @@
 
-#Codepath iOS101 2025 Prework 
+# Codepath iOS101 2025 Prework: Change Background Color
 
-Title: Change Background Color
 Prework - Qiana Partee
+
 Submitted by: Qiana Partee
 
 ## Description:
@@ -12,11 +12,11 @@ Time spent: approx 8 hours spent in total
 
 ## Required Features
 The following required functionality is completed:
- -[]Users are see a screen with three labels and a button
- -[]Tapping the button changes the screen color to a random color
+ - [] Users are see a screen with three labels and a button
+ - [] Tapping the button changes the screen color to a random color
  
 ## Improvements to the app are:
--[]Added a second button to change the color of the text
+- [] Added a second button to change the color of the text
 
 
 ## Video Walkthrough
@@ -37,10 +37,10 @@ Google calendar - create a task, see it appear on the calendar
 Target - search for a product, see it's location in the store
 
 **App Idea** - Penny Press Logic Puzzle App
-Solve logic puzzles by determining the right combination based on a series of clues. The puzzle is a grid, where you mark each cell with a "Yes" (Y) or "No" (N).
-
-    Check Your Progress: Click to see how many answers you've gotten right or wrong.
-    Get Hints: If you're stuck, use a hint to see if you're on the right track.
+Solve logic puzzles by determining the right combination based on a series of clues. 
+The puzzle is a grid, where you mark each cell with a "Yes" (Y) or "No" (N).
+Check Your Progress: Click to see how many answers you've gotten right or wrong.
+Get Hints: If you're stuck, use a hint to see if you're on the right track.
 
 
 License
