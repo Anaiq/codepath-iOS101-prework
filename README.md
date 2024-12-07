@@ -5,21 +5,21 @@ Title: Change Background Color
 Prework - Qiana Partee
 Submitted by: Qiana Partee
 
-##Description:
+## Description:
 Change My Background Color is an app that let's you change your screen's background color at the click of a button.
 
 Time spent: approx 8 hours spent in total
 
-##Required Features
+## Required Features
 The following required functionality is completed:
  -[]Users are see a screen with three labels and a button
  -[]Tapping the button changes the screen color to a random color
  
-##Improvements to the app are:
+## Improvements to the app are:
 -[]Added a second button to change the color of the text
 
 
-##Video Walkthrough
+## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/a3d6b2660b834c2d8a2b34d39e16a97e">
     </a>
@@ -29,10 +29,13 @@ The following required functionality is completed:
   </div>
 
 
-##App Brainstorming:
+## App Brainstorming:
 Instagram - clicking heart to like a post, heart changes color
+
 Google calendar - create a task, see it appear on the calendar
+
 Target - search for a product, see it's location in the store
+
 **App Idea** - Penny Press Logic Puzzle App
 Solve logic puzzles by determining the right combination based on a series of clues. The puzzle is a grid, where you mark each cell with a "Yes" (Y) or "No" (N).
 
