@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		972129662D04BC99005DC0C4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9721295D2D04BC99005DC0C4 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		972128752D037A51005DC0C4 /* iOS101-2025-prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS101-2025-prework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9721295D2D04BC99005DC0C4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -47,6 +52,7 @@
 			children = (
 				972128772D037A51005DC0C4 /* iOS101-2025-prework */,
 				972128762D037A51005DC0C4 /* Products */,
+				9721295D2D04BC99005DC0C4 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				972129662D04BC99005DC0C4 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
