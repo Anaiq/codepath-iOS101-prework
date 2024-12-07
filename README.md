@@ -12,11 +12,11 @@ Time spent: approx 8 hours spent in total
 
 ## Required Features
 The following required functionality is completed:
- - [] Users are see a screen with three labels and a button
- - [] Tapping the button changes the screen color to a random color
+ - [ ] Users are see a screen with three labels and a button
+ - [ ] Tapping the button changes the screen color to a random color
  
 ## Improvements to the app are:
-- [] Added a second button to change the color of the text
+- [ ] Added a second button to change the color of the text
 
 
 ## Video Walkthrough
